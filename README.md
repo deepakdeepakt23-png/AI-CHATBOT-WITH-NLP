@@ -36,5 +36,5 @@ The chatbot is implemented using a Python script. A dictionary called qa_pairs s
 
 OUTPUT :
 
-
+<img width="1365" height="730" alt="Image" src="https://github.com/user-attachments/assets/70520a39-375e-4cd1-aeea-ae6880ce4f43" />
 
